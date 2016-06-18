@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata minClientVersion="2.8.6">
+        <id>ICU4C_57_1</id>
+        <version>1.0.0-SpecifyVersionOnCommandline</version>
+        <title>ICU4C_57_1</title>
+        <authors>kkamegawa</authors>
+        <owners>kkamegawa</owners>
+        <description>ICU4C runtime and dev enviroment package</description>
+        <projectUrl>http://go.microsoft.com/fwlink/?LinkID=519078</projectUrl>
+        <iconUrl>https://kbizpublish.blob.core.windows.net/general/ICU4C_Logo.png</iconUrl>
+        <licenseUrl>$LicenseUrl$</licenseUrl>
+        <requireLicenseAcceptance>$RequireLicenseAcceptance$</requireLicenseAcceptance>
+        <copyright>Copyright (c) Kazushi Kamegawa. All rights reserved.</copyright>
+        <tags>ICU4C C++ i18n ICU Internationalization Library</tags>
+        <language>en-us</language>
+        <summary>ICU4C runtime and dev enviroment package</summary>
+    </metadata>
+
+    <files>
+
+      <file target="lib\x64"     src="lib\x64\*" />
+      <file target="lib\x86"     src="lib\x86\*" />
+
+      <file target="bin\x64"     src="bin\x64\*" />
+      <file target="bin\x86"     src="bin\x86\*" />
+
+
+      <file target="build\native\ICU4C_57_1.targets"  src="nuget\ICU4C_57_1.targets" />
+
+      <file target="include\layout"        src="include\layout\*"/>
+      <file target="include\unicode"       src="include\unicode\*"/>
+
+    </files>
+</package>
