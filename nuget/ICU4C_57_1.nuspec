@@ -7,7 +7,7 @@
         <authors>kkamegawa</authors>
         <owners>kkamegawa</owners>
         <description>ICU4C runtime and dev enviroment package</description>
-        <projectUrl>http://go.microsoft.com/fwlink/?LinkID=519078</projectUrl>
+        <projectUrl>https://github.com/kkamegawa/ICU4C_Nuget</projectUrl>
         <iconUrl>https://kbizpublish.blob.core.windows.net/general/ICU4C_Logo.png</iconUrl>
         <licenseUrl>$LicenseUrl$</licenseUrl>
         <requireLicenseAcceptance>$RequireLicenseAcceptance$</requireLicenseAcceptance>
