@@ -3,7 +3,7 @@
 ICU4C is an i18n library.Original site [ICU Project](http://site.icu-project.org/).  
 Original license is [Unicode](http://www.unicode.org/copyright.html#License), but this package is MIT License.
 
-[Build Status](https://clueup.visualstudio.com/_apis/public/build/definitions/0fa03a7b-e8d2-46c1-9a00-a5160c41a569/72/badge)
+![](https://clueup.visualstudio.com/_apis/public/build/definitions/0fa03a7b-e8d2-46c1-9a00-a5160c41a569/72/badge)
 
 ## What's this?
 This project re-packaging ICU4C's runtime and dev environment to NuGet package.    
