@@ -5,6 +5,9 @@ Original license is [Unicode](http://www.unicode.org/copyright.html#License), bu
 
 ![](https://clueup.visualstudio.com/_apis/public/build/definitions/0fa03a7b-e8d2-46c1-9a00-a5160c41a569/72/badge)
 
+## Important
+This project was archived, use [Microsoft's ICU](https://github.com/microsoft/icu).
+
 ## What's this?
 This project re-packaging ICU4C's runtime and dev environment to NuGet package.    
 Library and Runtime for x64 comes from original ICU4C, but x86 Library and Runtime is not official package.   
